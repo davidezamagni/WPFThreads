@@ -1,4 +1,4 @@
-#  wpfthreads(https://github.com/davidezamagni/WPFThreads/files/11265233/threadwpf.txt)
+#  wpfthreads
 
 Richiesta
 Si vuole visualizzare un conteggio sfruttando le istruzioni multithreads messe a disposizione dal linguaggio C#.
